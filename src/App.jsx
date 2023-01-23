@@ -20,7 +20,6 @@ function App() {
       injectJavascript('./assets/js/slick.js')
       injectJavascript('./assets/js/magnific-popup.js')
       injectJavascript('./assets/js/counterup.js')
-      injectJavascript('./assets/js/wow.js')
       injectJavascript('./assets/js/nice-select.js')
       injectJavascript('./assets/js/meanmenu.js')
       injectJavascript('./assets/js/isotope-pkgd.js')
